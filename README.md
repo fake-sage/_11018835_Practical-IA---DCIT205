@@ -14,8 +14,7 @@ This REST API is developed for the Electronic Medical Record System at the Unive
   - [View List of Patients](#view-list-of-patients)
   - [View Patient Details](#view-patient-details)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
